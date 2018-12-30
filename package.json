@@ -1,0 +1,31 @@
+{
+  "name": "tree-sitter-tm1pro",
+  "version": "0.1.0",
+  "description": "TM1 Turbo Integrator Process Grammer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/tm1-kgh/tree-sitter-tm1pro.git"
+  },
+  "keywords": [
+    "ibm",
+    "cognos",
+    "tm1",
+    "pro",
+    "process",
+    "ti",
+    "turbo",
+    "integrator"
+  ],
+  "author": "kevin henderson",
+  "license": "ISC",
+  "dependencies": {
+    "nan": "^2.12.1"
+  },
+  "devDependencies": {
+    "tree-sitter-cli": "^0.13.15"
+  }
+}
